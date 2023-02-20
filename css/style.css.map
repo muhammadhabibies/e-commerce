@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACP,gBAAgB,EAAE,GAAG;CACxB",
+    "sources": [
+        "../../visio/sass/scss/style.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
